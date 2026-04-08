@@ -12,7 +12,7 @@ Aşağıdaki listeden ilgili güne tıklayarak o gün yazdığım paket altında
 | :--- | :--- | :--- |
 | **01** | Kotlin'e Giriş, Değişkenler ve Tür Dönüşümü | [Kodları Görüntüle](./app/src/main/java/com/zafer/kotlindersleri/gun01_giris) |
 | **02** | Kontrol Yapıları (If, When, Döngüler) ve OOP'ye Giriş | [Kodları Görüntüle](./app/src/main/java/com/zafer/kotlindersleri/gun02_kontrol_yapilari_ve_oop) ||
-| **03** | Bekleniyor... | - |
+| **03** | Fonksiyonlar, Null Safety ve İleri OOP | [Kodları Görüntüle](./app/src/main/java/com/zafer/kotlindersleri/gun03_fonksiyonlar_ve_ileri_oop) |
 
 ---
 
